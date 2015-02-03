@@ -1,0 +1,20 @@
+---
+title: "Manny's GitHub space"
+output:
+  html_document:
+    css: style.css
+    highlight: haddock
+    number_sections: no
+    theme: null
+    toc: no
+    toc_depth: 3
+---
+
+#Links
+
+[Intro to data manipulation and visualization in R](http://personal.colby.edu/personal/m/mgimond/RIntro/Index.html)
+
+[Basic Stats with R](http://personal.colby.edu/personal/m/mgimond/stats/Index.html)
+
+[ES218 course page](ES218/index.html)
+
