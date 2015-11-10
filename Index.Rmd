@@ -14,7 +14,7 @@ output:
 
 [ES218 course page](ES218/index.html)
 
-[Basic Stats with R](Tutorial--Stats/Index.html)
+[Basic Stats with R](Tutorial--Stats/index.html)
 
 [Other R resources](http://personal.colby.edu/personal/m/mgimond/)
 
