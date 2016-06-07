@@ -10,11 +10,12 @@ output:
     toc_depth: 3
 ---
 
-#Links
 
-[ES218 course page](ES218/index.html)
 
-[Basic Stats with R](Tutorial--Stats/Index.html)
+## [ES218 course page (EDA with R)](ES218/index.html)
 
-[Other R resources](http://personal.colby.edu/personal/m/mgimond/)
+## [Stats with R](Stats-in-R/index.html)
+
+## [Other R resources](http://personal.colby.edu/personal/m/mgimond/)
+
 
