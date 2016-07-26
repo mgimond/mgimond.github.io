@@ -14,6 +14,8 @@ output:
 
 ## [ES218 course page (EDA with R)](ES218/index.html)
 
+## [ES214 course page (GIS and Spatial Analysis)](Spatial/index.html)
+
 ## [Stats with R](Stats-in-R/index.html)
 
 ## [Other R resources](http://personal.colby.edu/personal/m/mgimond/)
