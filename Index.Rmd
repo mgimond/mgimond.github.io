@@ -16,6 +16,8 @@ output:
 
 ## [ES214 course page (GIS and Spatial Analysis)](Spatial/index.html)
 
+## [ArcGIS tutorials](ArcGIS_tutorials/index.html)
+
 ## [Stats with R](Stats-in-R/index.html)
 
 ## [Other R resources](http://personal.colby.edu/personal/m/mgimond/)
