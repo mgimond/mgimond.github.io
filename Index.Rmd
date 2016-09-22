@@ -20,6 +20,6 @@ output:
 
 ## [Stats with R](Stats-in-R/index.html)
 
-## [Other R resources](http://personal.colby.edu/personal/m/mgimond/)
+
 
 
