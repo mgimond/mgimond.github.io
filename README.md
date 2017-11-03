@@ -1,4 +1,4 @@
-Manny Gimond's GitHub space
+## Manny Gimond's GitHub space
 =================
 
 + [ES218 course page (EDA with R)](https://mgimond.github.io/ES218/index.html)
