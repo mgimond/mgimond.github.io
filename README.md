@@ -4,6 +4,6 @@
 + [ArcGIS tutorials](https://mgimond.github.io/ArcGIS_tutorials/index.html)
 + [Stats with R](https://mgimond.github.io/Stats-in-R/index.html)
 + [Misc presentations](https://mgimond.github.io/Presentations/)
-
++ [tukeyedar package](https://mgimond.github.io/tukeyedar/)
 ---------------------------------------------------------------------------------------------
 *Manuel "Manny" Gimond, 2017*
