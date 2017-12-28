@@ -5,7 +5,6 @@
 + [Stats with R](https://mgimond.github.io/Stats-in-R/index.html)
 + [Misc presentations](https://mgimond.github.io/Presentations/)
 + [tukeyedar R package](https://mgimond.github.io/tukeyedar/)
-
 + A few other random repos
    * [Waterville meteorological data](https://mgimond.github.io/meteo_waterville/)
 
