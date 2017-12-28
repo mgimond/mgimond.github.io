@@ -6,5 +6,8 @@
 + [Misc presentations](https://mgimond.github.io/Presentations/)
 + [tukeyedar R package](https://mgimond.github.io/tukeyedar/)
 
++ A few other random repos
+   * [Waterville meteorological data](https://mgimond.github.io/meteo_waterville/)
+
 ---------------------------------------------------------------------------------------------
 *Manuel "Manny" Gimond, 2017*
