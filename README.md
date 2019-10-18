@@ -14,7 +14,7 @@
 + Jun 2019: [Colby R workshop (taught in conjunction with a DataCarpentry workshop)](./Colby-summer-R-workshop-2019/index.html) 
 
 ## Packages
-+ [tukeyedar R package]./tukeyedar/) Tukey inspired EDA functions
++ [tukeyedar R package](./tukeyedar/) Tukey inspired EDA functions
 
 ## A few other random repos
 + [Waterville meteorological data](https://mgimond.github.io/meteo_waterville/)
