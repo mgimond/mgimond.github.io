@@ -7,11 +7,12 @@
 
 ## Miscellaneous R presentations
 + 2016 MEGIS Conference: [GIS and Spatial Analysis with R](./MEGUG2016/Tutorial.html)
-+ Aug 2017: [The Tidyverse](./Presentations/Presentation_ColbyRUG_AUG2017.html)
 + 2017 MEGIS Conference: [Raster analysis in R](./megug2017/index.html)
-+ Nov 2017: [Spatial data in R](./Presentations/Presentation_ColbyRUG_NOV2017.html)
-+ May 2019: [Colby R use survey results](./Colby_R_use_2018_2019/index.html)
 + Jun 2019: [Colby R workshop (taught in conjunction with a DataCarpentry workshop)](./Colby-summer-R-workshop-2019/index.html) 
++ Colby R User Group
+   + Aug 2017: [The Tidyverse](./Presentations/Presentation_ColbyRUG_AUG2017.html)
+   + Nov 2017: [Spatial data in R](./Presentations/Presentation_ColbyRUG_NOV2017.html)
+   + May 2019: [Colby R use survey results](./Colby_R_use_2018_2019/index.html) 
 
 ## R Packages
 + [tukeyedar](./tukeyedar/) Tukey inspired EDA functions
