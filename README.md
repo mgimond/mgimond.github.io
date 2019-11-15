@@ -20,6 +20,7 @@
 
 ## A few other random repos
 + [Waterville meteorological data](https://mgimond.github.io/meteo_waterville/)
++ [A simple Moran's I analysis example in R](https://mgimond.github.io/simple_moransI_example/)
 
 ---------------------------------------------------------------------------------------------
 *Manuel "Manny" Gimond*
