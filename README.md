@@ -2,7 +2,8 @@
 ## Main repos
 + [ES218 course page (EDA with R)](https://mgimond.github.io/ES218/index.html)
 + [ES214 course page (GIS and Spatial Analysis)](https://mgimond.github.io/Spatial/index.html)
-+ [ArcGIS tutorials](https://mgimond.github.io/ArcGIS_tutorials/index.html)
++ [ArcGIS Desktop tutorials](https://mgimond.github.io/ArcGIS_tutorials/index.html) (Note that these tutorials will not longer be updated)
+    + For my ArcGIS Pro tutorials, visit [this link](https://sites.google.com/colby.edu/mgimond-arcgis-pro/).
 + [Stats with R](https://mgimond.github.io/Stats-in-R/index.html)
 
 ## R Packages
