@@ -19,6 +19,7 @@
    + May 2019: [Colby R use survey results](https://mgimond.github.io/Colby_R_use_2018_2019/index.html) 
    + Oct 2019: [tidyr v 1.0](https://mgimond.github.io/rug_2019_10/Index.html) 
    + Dec 2019: [base vs tidy vs data.table](https://mgimond.github.io/rug_2019_12/Index.html) 
+   + Jun 2021: [Intro to Git and GitHub (includes GitHub Classroom)](https://mgimond.github.io/Colby-summer-git-workshop-2021/index.html)
 
 ## A few other random repos
 + [Waterville meteorological data](https://mgimond.github.io/meteo_waterville/)
