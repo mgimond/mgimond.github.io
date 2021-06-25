@@ -25,6 +25,7 @@
 + [Waterville meteorological data](https://mgimond.github.io/meteo_waterville/)
 + [A simple Moran's I analysis example in R](https://mgimond.github.io/simple_moransI_example/)
 + [Tissot’s Indicatrix Explained (using R)](https://mgimond.github.io/tissot/) 
++ [Exploratory data analysis of the Kennebec River discharge rates](https://mgimond.github.io/kennebec_river/)
 
 ---------------------------------------------------------------------------------------------
 *Manuel "Manny" Gimond*
