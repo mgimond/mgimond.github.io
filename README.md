@@ -13,13 +13,7 @@
 + 2016 MEGIS Conference: [GIS and Spatial Analysis with R](https://mgimond.github.io/MEGUG2016/Tutorial.html)
 + 2017 MEGIS Conference: [Raster analysis in R](https://mgimond.github.io/megug2017/index.html)
 + Jun 2019: [Colby R workshop (taught in conjunction with a DataCarpentry workshop)](https://mgimond.github.io/Colby-summer-R-workshop-2019/index.html) 
-+ Colby R User Group
-   + Aug 2017: [The Tidyverse](https://mgimond.github.io/Presentations/Presentation_ColbyRUG_AUG2017.html)
-   + Nov 2017: [Spatial data in R](https://mgimond.github.io/Presentations/Presentation_ColbyRUG_NOV2017.html)
-   + May 2019: [Colby R use survey results](https://mgimond.github.io/Colby_R_use_2018_2019/index.html) 
-   + Oct 2019: [tidyr v 1.0](https://mgimond.github.io/rug_2019_10/Index.html) 
-   + Dec 2019: [base vs tidy vs data.table](https://mgimond.github.io/rug_2019_12/Index.html) 
-   + Jun 2021: [Intro to Git and GitHub (includes GitHub Classroom)](https://mgimond.github.io/Colby-summer-git-workshop-2021/index.html)
++ [Colby R User Group workshops] (https://mgimond.github.io/crug)
 
 ## A few other random repos
 + [Waterville meteorological data](https://mgimond.github.io/meteo_waterville/)
