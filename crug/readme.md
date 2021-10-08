@@ -6,4 +6,4 @@
    + Oct 2019: [tidyr v 1.0](https://mgimond.github.io/rug_2019_10/Index.html) 
    + Dec 2019: [base vs tidy vs data.table](https://mgimond.github.io/rug_2019_12/Index.html) 
    + Jun 2021: [Intro to Git and GitHub (includes GitHub Classroom)](https://mgimond.github.io/Colby-summer-git-workshop-2021/index.html)
-   + Sep 2021: [What's new in R 4.1](https://mgimond.github.io/CRUG_Sep_2021/ crug_sep_2021.html)
+   + Sep 2021: [What's new in R 4.1](https://mgimond.github.io/CRUG_Sep_2021/crug_sep_2021.html)
