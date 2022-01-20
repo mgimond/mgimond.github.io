@@ -12,7 +12,8 @@
 ## Miscellaneous R presentations
 + 2016 MEGIS Conference: [GIS and Spatial Analysis with R](https://mgimond.github.io/MEGUG2016/Tutorial.html)
 + 2017 MEGIS Conference: [Raster analysis in R](https://mgimond.github.io/megug2017/index.html)
-+ Jun 2019: [Colby R workshop (taught in conjunction with a DataCarpentry workshop)](https://mgimond.github.io/Colby-summer-R-workshop-2019/index.html) 
++ June 2019: [Colby R workshop (taught in conjunction with a DataCarpentry workshop)](https://mgimond.github.io/Colby-summer-R-workshop-2019/index.html) 
++ June 2021: [Colby summer git/GitHub workshop](https://mgimond.github.io/Colby-summer-git-workshop-2021/) 
 + [Colby R User Group workshops](https://mgimond.github.io/crug)
 
 ## A few other random repos
