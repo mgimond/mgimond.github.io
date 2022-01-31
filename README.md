@@ -1,6 +1,6 @@
 
 ## Main repos
-+ [ES218 course page (EDA with R)](https://mgimond.github.io/ES218/index.html)
++ [ES218 course page (Tukey inspired Exploratory Data Analysis course with R)](https://mgimond.github.io/ES218/index.html)
 + [ES214 course page (GIS and Spatial Analysis)](https://mgimond.github.io/Spatial/index.html)
 + [Stats with R](https://mgimond.github.io/Stats-in-R/index.html)
 + [ArcMap tutorials](https://mgimond.github.io/ArcGIS_tutorials/index.html) (Note that these tutorials will not longer be updated)
@@ -23,4 +23,4 @@
 + [Exploratory data analysis of the Kennebec River discharge rates](https://mgimond.github.io/kennebec_river/)
 
 ---------------------------------------------------------------------------------------------
-*Manuel "Manny" Gimond*
+ *Manuel Gimond*
