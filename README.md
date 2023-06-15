@@ -1,10 +1,12 @@
 
-## Main repos
-+ [ES218 course page (Tukey inspired Exploratory Data Analysis course with R)](https://mgimond.github.io/ES218/index.html)
-+ [ES214 course page (GIS and Spatial Analysis)](https://mgimond.github.io/Spatial/index.html)
+## Tutorials
++ [Tukey inspired Exploratory Data Analysis course with R (ES218 course page)](https://mgimond.github.io/ES218/index.html)
++ [GIS and Spatial Analysis (ES214 course page)](https://mgimond.github.io/Spatial/index.html)
 + [Stats with R](https://mgimond.github.io/Stats-in-R/index.html)
 + [ArcMap tutorials](https://mgimond.github.io/ArcGIS_tutorials/index.html) (Note that these tutorials will not longer be updated)
 + [ArcGIS Pro tutorials](https://sites.google.com/colby.edu/mgimond-arcgis-pro/)
++ [A simple Moran's I analysis example in R](https://mgimond.github.io/simple_moransI_example/)
++ [Tissot’s Indicatrix Explained (using R)](https://mgimond.github.io/tissot/) 
 
 ## R Packages
 + [tukeyedar](https://mgimond.github.io/tukeyedar/) Tukey inspired EDA functions
@@ -16,11 +18,8 @@
 + June 2021: [Colby summer git/GitHub workshop](https://mgimond.github.io/Colby-summer-git-workshop-2021/) 
 + [Colby R User Group workshops](https://mgimond.github.io/crug)
 
-## Miscellaneous R tutorials
-
-+ [A simple Moran's I analysis example in R](https://mgimond.github.io/simple_moransI_example/)
-+ [Tissot’s Indicatrix Explained (using R)](https://mgimond.github.io/tissot/) 
-+ [Miscellaneous R functions](https://mgimond.github.io/miscR/)
+## Miscellaneous R functions
++ [Spatial R functions](https://mgimond.github.io/miscR/)
 
 ## Miscellaneous analyses
 + [Waterville meteorological data](https://mgimond.github.io/meteo_waterville/)
