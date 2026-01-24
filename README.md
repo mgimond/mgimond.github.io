@@ -10,6 +10,7 @@
 
 ## R Packages
 + [tukeyedar](https://mgimond.github.io/tukeyedar/) Tukey inspired EDA functions
++ [mastRmind](https://mgimond.github.io/mastRmind/) An R implementation of the 1970's Mastermind peg board game
 
 ## Miscellaneous R presentations
 + 2016 MEGIS Conference: [GIS and Spatial Analysis with R](https://mgimond.github.io/MEGUG2016/Tutorial.html)
